@@ -1,2 +1,3 @@
-# ErrorJeong
-A life that clears errors every day
+# Hello World!
+
+Hi! I'm MyeongSeong Jeong just call me MJ!
